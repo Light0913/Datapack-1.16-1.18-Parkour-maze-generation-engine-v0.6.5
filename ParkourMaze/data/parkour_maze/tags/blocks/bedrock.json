@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bedrock",
+	"minecraft:stone_bricks",
+	"minecraft:barrier",
+	"minecraft:command_block",
+	"#minecraft:doors",
+	"minecraft:lava"
+	
+  ]
+}
