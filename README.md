@@ -7,11 +7,11 @@ We have a method to generate parkour with algorithm and maze with algorithm
 
 Maybe if you want to add some maze elements to your map, you might as well try this one. You can easily build a parkour maze with a few instructions~
 
-## Version:
+## Version
 
 Minecraft for [1.16-1.18+]
 
-## Version log:
+## Version log
 
 [0.6.3] Solved the problem that the new world could not use data packets normally (solved an infinite self-iteration of goal_set)
 
@@ -19,7 +19,7 @@ Minecraft for [1.16-1.18+]
 
 [0.6.5] solves the problem that the execute positioned method cannot modify the actual starting point position (remove "at @ s" in "start")
 
-## Use steps:
+## Use steps
 
 **A. Manual generation**
 
@@ -103,7 +103,7 @@ If you feel you have enough time, you can also try shell:
 
 `/function parkour_ maze:example/hell`
 
-## Features:
+## Features
 
 - One, Entity quantity control:
 
@@ -116,3 +116,7 @@ After starting to build the maze, even if you use/reload to reload the data pack
 - Three, Multiple steps in one frame:
 
 One frame can build a maze in multiple steps, breaking the limit of 20 steps per second, and greatly improving the construction speed (currently the default setting is 10 steps per frame)
+
+## At last
+
+In fact, the most hopeful thing is that someone is willing to use this parkour maze machine on the created map, so that your map can have more map elements, and the significance of parkour maze machine can also be embodied
