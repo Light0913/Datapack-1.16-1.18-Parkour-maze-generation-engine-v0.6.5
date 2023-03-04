@@ -132,3 +132,4 @@ In fact, if someone is willing to use this parkour maze machine on the created m
 
 ## State
 
+This resource is collected and collated for me (Light0913). If you have any modification suggestions, please send me a private letter
