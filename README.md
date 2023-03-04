@@ -132,7 +132,7 @@ In fact, if someone is willing to use this parkour maze machine on the created m
 
 ## Resource Statement
 
-This resource is collected and collated for me [Light0913](https://github.com/Light0913). If you have any modification suggestions, please send me a private letter
+I collected this resource myself([Light0913](https://github.com/Light0913)). If you have any modification suggestions, please send me a private letter
 
 ### Contact information
 
