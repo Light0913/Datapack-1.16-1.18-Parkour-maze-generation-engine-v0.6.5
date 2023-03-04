@@ -1,7 +1,7 @@
 # [Data package] [1.16-1.18+] Parkour maze generation engine v0.6.5 -- intelligent generation of Parkour maze!
-We have a method to generate parkour with algorithm and maze with algorithm.
+We have a method to generate parkour with algorithm and maze with algorithm
 
-(In fact, it is a "parkour maze", which is essentially a maze, but the route is parkour line - the maze is professional, parkour only stays in the "box" at present, but it is also very awesome.)
+(In fact, it is a "parkour maze", which is essentially a maze, but the route is parkour line - the maze is professional, parkour only stays in the "box" at present, but it is also very awesome)
 
 ——If it is not in the MC, the algorithm outside can only generate the maze of ordinary lines (two-dimensional or three-dimensional), but because Steve in adventure mode can't fly, so - Parkour!
 
@@ -9,15 +9,15 @@ Maybe if you want to add some maze elements to your map, you might as well try t
 
 ## Version:
 
-Minecraft for [1.16-1.18+].
+Minecraft for [1.16-1.18+]
 
 ## Version log:
 
-[0.6.3] Solved the problem that the new world could not use data packets normally (solved an infinite self-iteration of goal_set).
+[0.6.3] Solved the problem that the new world could not use data packets normally (solved an infinite self-iteration of goal_set)
 
-[0.6.4] Solved the problem that survival or adventure mode did not score when it reached the scoring point (I don't know where hand sliding changed the command).
+[0.6.4] Solved the problem that survival or adventure mode did not score when it reached the scoring point (I don't know where hand sliding changed the command)
 
-[0.6.5] solves the problem that the execute positioned method cannot modify the actual starting point position (remove "at @ s" in "start").
+[0.6.5] solves the problem that the execute positioned method cannot modify the actual starting point position (remove "at @ s" in "start")
 
 ## Use steps:
 
@@ -32,16 +32,16 @@ Minecraft for [1.16-1.18+].
 
 (It is recommended to use fill's outline or hole mode. In addition, this area can not be rectangular)
 
-You can also use a door to seal or magma to cushion the bottom, but you need to ensure that there is no 1x2x1 exit in the enclosed area.
+You can also use a door to seal or magma to cushion the bottom, but you need to ensure that there is no 1x2x1 exit in the enclosed area
 
-——The maze will not pass through these blocks.
+——The maze will not pass through these blocks
 
 
 3. Fill in the inner area of the enclosed space with the box you like
 
-If a ladder (not a stair), spider web or structural vacancy is used, it will be regarded as a "fixed vacancy".
+If a ladder (not a stair), spider web or structural vacancy is used, it will be regarded as a "fixed vacancy"
 
-If the block used for the enclosed area in step 2 is added inside, it will be used as a "fixed road block“.
+If the block used for the enclosed area in step 2 is added inside, it will be used as a "fixed road block“
 
 (It is also recommended to use fill... if you can find the Genesis plug-in)
 
@@ -55,9 +55,9 @@ If the block used for the enclosed area in step 2 is added inside, it will be us
 
 (This command is also an underlined command prompted in the chat bar when/reload. You can click to enter it quickly)
 
-(If you use execute to change the execution position of this command to the inside of the enclosed space, it is also possible for people not to go inside.)
+(If you use execute to change the execution position of this command to the inside of the enclosed space, it is also possible for people not to go inside)
 
-If the enclosed space is large, it is suggested to adjust the number of planning steps first: (the default is 3000, which may be applicable for small ones).
+If the enclosed space is large, it is suggested to adjust the number of planning steps first: (the default is 3000, which may be applicable for small ones)
 
 `/scoreboard players set limit maze_ Settings steps`
 
@@ -66,9 +66,9 @@ If the enclosed space is large, it is suggested to adjust the number of planning
 
 `/scoreboard objectives setdisplay sidebar maze_ settings`
 
-See the column "step_remaine" on the right: "~".
+See the column "step_remaine" on the right: "~"
 
-The internal construction can also be viewed through the spectator mode, and the creation mode can be F3+N.
+The internal construction can also be viewed through the spectator mode, and the creation mode can be F3+N
 
 
 6. If you want to stop ahead of time (can't wait or feel that the maze will not continue to build)
@@ -107,12 +107,12 @@ If you feel you have enough time, you can also try shell:
 
 1. Entity quantity control:
 
-When the number of entities exceeds a certain number, part of the entities will be automatically cleaned to ensure that the labyrinth construction performance will not be affected by the excessive number of entities (at present, it is 500 less than 1000).
+When the number of entities exceeds a certain number, part of the entities will be automatically cleaned to ensure that the labyrinth construction performance will not be affected by the excessive number of entities (at present, it is 500 less than 1000)
 
 2. "Breakpoint continuation":
 
-After starting to build the maze, even if you use/reload to reload the data package, or even exit the game and re-enter, the maze can still continue to build normally.
+After starting to build the maze, even if you use/reload to reload the data package, or even exit the game and re-enter, the maze can still continue to build normally
 
 3. Multiple steps in one frame:
 
-One frame can build a maze in multiple steps, breaking the limit of 20 steps per second, and greatly improving the construction speed (currently the default setting is 10 steps per frame).
+One frame can build a maze in multiple steps, breaking the limit of 20 steps per second, and greatly improving the construction speed (currently the default setting is 10 steps per frame)
