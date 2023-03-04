@@ -43,7 +43,7 @@ If a ladder (not a stair), spider web or structural vacancy is used, it will be 
 
 If the block used for the enclosed area in step 2 is added inside, it will be used as a "fixed road block“
 
-(It is also recommended to use fill... if you can find the Genesis plug-in)
+(It is also recommended to use fill... if you can find the World-Edit plug-in)
 
 (I usually use stone or air)
 
