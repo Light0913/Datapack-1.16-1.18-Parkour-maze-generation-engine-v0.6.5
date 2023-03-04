@@ -10,6 +10,12 @@ We have a method to generate parkour with algorithm and maze with algorithm
 
 Maybe if you want to add some maze elements to your map, you might as well try this one. You can easily build a parkour maze with a few instructions~
 
+## Matters needing attention
+
+After decompressing the downloaded compressed package, there are two compressed packages, "ParkourMaze" and "Randomer", which can be put into the data package folder
+
+**The "ParkourMaze" packet requires a front packet: "Randomer"**
+
 ## Version
 
 Minecraft for [1.16-1.18+]
