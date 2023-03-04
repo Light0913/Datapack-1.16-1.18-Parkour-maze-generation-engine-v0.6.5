@@ -1,0 +1,1 @@
+summon minecraft:snowball ~ ~ ~ {NoGravity:True,Tags:["new","node","maze"]}
