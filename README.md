@@ -19,9 +19,9 @@ Minecraft for [1.16-1.18+].
 
 [0.6.5] solves the problem that the execute positioned method cannot modify the actual starting point position (remove "at @ s" in "start")
 
-##Usage method:
+## Use steps:
 
-**A. Manual**
+**A. Manual generation**
 
 1. Reload first
 
