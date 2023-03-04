@@ -66,9 +66,7 @@ If the enclosed space is large, it is suggested to adjust the number of planning
 
 `/scoreboard objectives setdisplay sidebar maze_ settings`
 
-Copy Code
-
-See step on the right_ The remaining column is~
+See the column "step_remaine" on the right: "~"
 
 The internal construction can also be viewed through the spectator mode, and the creation mode can be F3+N
 
