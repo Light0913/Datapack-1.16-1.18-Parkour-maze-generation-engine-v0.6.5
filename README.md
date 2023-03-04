@@ -130,6 +130,13 @@ One frame can build a maze in multiple steps, breaking the limit of 20 steps per
 
 In fact, if someone is willing to use this parkour maze machine on the created map, so that your map can have more map elements, the significance of parkour maze machine can also be reflected
 
-## State
+## Resource Statement
 
-This resource is collected and collated for me (Light0913). If you have any modification suggestions, please send me a private letter
+This resource is collected and collated for me [Light0913](https://github.com/Light0913). If you have any modification suggestions, please send me a private letter
+
+### Contact information
+
+- Primary mailbox:Light0913@163.com
+- Other mailboxes:Light_LE@qq.com
+
+**Matters needing attention:Active time: weekend**
