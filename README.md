@@ -8,5 +8,6 @@ We have a method to generate parkour with algorithm and maze with algorithm.
 Maybe if you want to add some maze elements to your map, you might as well try this one. You can easily build a parkour maze with a few instructions~
 
 ## Version:
-
 Minecraft for [1.16-1.18+].
+
+## Daily record：
