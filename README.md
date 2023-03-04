@@ -3,6 +3,6 @@ This is a Chinese Minecraft starter.
 
 If you want to learn Chinese, you can try it.
 
-Version:
+## Version:
 
-Applicable to [1.16-1.18+] Minecraft.
+Minecraft [1.16-1.18+] .
