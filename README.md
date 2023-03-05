@@ -140,3 +140,7 @@ I collected this resource myself([Light0913](https://github.com/Light0913)). If 
 - Other mailboxes:Light_LE@qq.com
 
 **Matters needing attention:** main online time:weekend
+
+### Translator
+
+Baidu Translator
